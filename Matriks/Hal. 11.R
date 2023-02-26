@@ -1,0 +1,5 @@
+A <-matrix(c(1,2,3,4),2,2,TRUE)
+B <-matrix(1:9,3,3,TRUE)
+t(A)
+det(A)
+solve(A)
